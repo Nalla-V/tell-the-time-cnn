@@ -1,0 +1,21 @@
+# Data (course-provided, not redistributed)
+images.npy
+labels.npy
+*.npy
+
+# Training artefacts
+results/
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db

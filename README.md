@@ -158,6 +158,6 @@ checkpoints, per-epoch logs and JSON summaries to `results/`; it needs a GPU and
 
 ## Contributions
 
-- Nallathambi Vethiappan — tell-the-time classification and regression models
-- Deepak Somesh K J — multi-head model, sin/cos label transformation, optimised final model
-- Divyanshi Singh — Fashion-MNIST and CIFAR-10 architecture search
+- Nallathambi Vethiappan 
+- Deepak Somesh K J 
+- Divyanshi Singh 
